@@ -31,3 +31,5 @@ Podfile.lock
 
 # SwiftPM
 .build
+Example/JKUtilityKit.xcworkspace/contents.xcworkspacedata
+Example/JKUtilityKit.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
